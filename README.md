@@ -19,4 +19,21 @@ The dataset,sourced from Kaggle, provides comprehensive information on customer 
 ### Installing
 1. Clone the repo
  git clone https://github.com/your_username_/Project-Name.git
+2. The data set can be downloaded from [here](url)
+
+### Solution
+The solution code is divided into the following sections;
+1. Business Problem
+2. Data Understanding
+3. Data Preparation
+     . Handling Missing values
+     . Encoding categorical variables
+     . Feature Scaling
+     . Feature Engineering
+4. EDA
+5. Splitting Data
+6. Model Selection, Training, and Evaluation
+7. Reccomendations
+
+The full solution can be accessed from here
 
